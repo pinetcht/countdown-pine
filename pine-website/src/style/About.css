@@ -1,0 +1,30 @@
+body {
+    background-color: lightpink;
+}
+
+h1 {
+    font-family: "Source Sans Pro", sans-serif;
+    color: black;
+    border: 1px solid black
+}
+
+
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    border: 1px solid white
+}
+
+ul {
+    color: white
+}
+
+.places {
+    color: #ff4800;
+    font-weight: 200;
+}
+
+.name {
+    color:crimson
+}
